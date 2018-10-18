@@ -6,4 +6,8 @@ rad nummer 4
 rad nummer 6
 rad mitt i
 
+
+
+rad 11
+
 en rad sist i filen
