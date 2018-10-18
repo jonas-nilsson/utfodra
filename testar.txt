@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 ny rad1
+>>>>>>> 9884afc7c275a22b5ed46ec69ce8638d4ec3f2ab
