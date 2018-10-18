@@ -3,7 +3,7 @@ en rad till
 lägger till en rad emellan
 rad nummer 3
 rad nummer 4
-
+rad nummer 6
 rad mitt i
 
 en rad sist i filen
