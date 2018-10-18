@@ -6,4 +6,7 @@ rad nummer 4
 rad nummer 6
 rad mitt i
 
+ny rad på rad 9
+
+
 en rad sist i filen
