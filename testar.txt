@@ -1,4 +1,5 @@
 ny rad1
 en rad till
+lägger till en rad emellan
 rad nummer 3
 rad nummer 4
