@@ -1,3 +1,4 @@
 ny rad1
 en rad till
 rad nummer 3
+rad nummer 4
